@@ -1,4 +1,4 @@
-# demoWorkProject
+# demo project
 ## структура проекта
 - каркас
 - шапка
